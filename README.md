@@ -26,6 +26,9 @@ The Password Generator is a user-friendly program designed to create secure and 
 
 In conclusion, the Password Generator is an invaluable tool for anyone seeking to strengthen the security of their online presence. By providing customizable and secure passwords, along with an assessment of their strength, the program empowers users to safeguard their digital assets effectively.
 
-# Usage
+# Usage:
+(installing requeriments)
+pip install random string
 
+(running the program)
 python PasswdGenerator.py
