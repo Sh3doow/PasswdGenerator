@@ -29,7 +29,9 @@ In conclusion, the Password Generator is an invaluable tool for anyone seeking t
 # Usage:
 
 (Installing dependencies) <p>
-pip install random string
+          
+        pip install random string
 
 (Running the program) <p>
-python PasswdGenerator.py
+        
+        python PasswdGenerator.py
