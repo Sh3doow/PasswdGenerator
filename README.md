@@ -3,13 +3,6 @@ Introducing the Password Generator: A Secure and Customizable Solution for Stron
 
 The Password Generator is a user-friendly program designed to create secure and customizable passwords for enhanced online security. With a range of features and strength assessment capabilities, it empowers users to generate strong and reliable passwords tailored to their specific needs.
 
-# Key Features:
-
-1 Customization: The program allows users to specify the number of passwords they want and their desired length. This ensures that the generated passwords align with individual preferences and requirements. <p>
-2 Character Selection: Users can choose to include special characters, numbers, uppercase letters, and lowercase letters in their passwords. This versatility enables users to create passwords that cater to their preferred complexity level. <p>
-3 Enhanced Security: To guarantee robust security, the Password Generator ensures that the generated passwords meet all specified requirements. It avoids character repetitions and includes the selected character types, effectively minimizing the risk of vulnerability. <p>
-4 Strength Assessment: After generating the passwords, the program evaluates their strength based on various factors. These factors include length, character diversity, use of special characters, numbers, uppercase and lowercase letters, and avoidance of common sequences and repetitions. The strength assessment allows users to gauge the security level of their passwords. <p>
-
 # How It Works:
 
 1 Input: Users are prompted to enter the number of passwords they wish to generate and the desired length for each password. <p>
@@ -30,8 +23,8 @@ In conclusion, the Password Generator is an invaluable tool for anyone seeking t
 
 (Installing dependencies) <p>
           
-          pip install random string
+    pip install random string
 
 (Running the program) <p>
         
-          python PasswdGenerator.py
+    python PasswdGenerator.py
